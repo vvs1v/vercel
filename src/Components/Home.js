@@ -272,12 +272,12 @@ function Home() {
               md={4}
               //   className="d-flex flex-column align-items-center"
             >
-              <h1 className="text-white fw-bold header ms-5">
-                Bring Your Own Data and  <br /> Discover
+              {/* <h1 className="text-white fw-bold header ms-5">
+                Bring Your Own Data   <br /> Discover
               </h1>
               <p className="lead text-white ms-5">
                 “the future of BI is Conversational”
-              </p>
+              </p> */}
               <br />
             </Col>
             <Col md={4}>
