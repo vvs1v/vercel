@@ -263,7 +263,7 @@ function Home() {
               //   className="d-flex flex-column align-items-center"
             >
               <h1 className="text-white fw-bold header ms-5">
-                Bring Your Own Data and <br /> Discover
+                Analyze Your Service Now <br /> Tickets
               </h1>
               <p className="lead text-white ms-5">
                 “the future of BI is Conversational”
