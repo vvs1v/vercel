@@ -48,7 +48,7 @@ function Home() {
     setSelectedChart("");
     // Calling Flask API and returning data to res
     const res = await (
-      await axios.post("http://127.0.0.1:5000/out", {
+      await axios.post("http://127.0.0.1:5000/servicenow", {
         user_input: input,
       })
     ).data;
